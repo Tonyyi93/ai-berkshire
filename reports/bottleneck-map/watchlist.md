@@ -5543,3 +5543,49 @@ Kanto Denka Kogyo 7/1永久停止WF6生产，**投资论点核心为NF3，而非
 *数据来源：Bloomberg 2026-06-15（霍尔木兹积压40+船/100万吨/出口-90%）/ Digitimes 2026-06-15（InP中国5月放行4,000片）/ Digitimes 2026-06-16（谷歌CSP非中国来源>50%目标）/ SEC EDGAR LEU 10-Q 2026-03-31（Option 1b=$163.5M+$15.2M）/ The Elec 2026（WF6合同+70-90%，4月单月+204%）/ StocksToTrade 2026-05（AXTI增发$6.325亿@$64.25）/ World Bank via farmdoc daily（钾肥$390/吨）*
 
 *来源：Investing.com/StockAnalysis 2026-06-17（Sakai Chemical、Nippon Chemical财务数据）/ Tom's Hardware 2026（数据中心延误）/ PV Magazine 2026-05-11（变压器交期36-48月）*
+
+---
+
+## 状态快照（2026-06-17 23:00）
+
+> 第220轮扫描。4项新增量信号（相对21:00）。
+
+| 标的 | 代码 | 评级 | 变化 | 关键状态 |
+|------|------|------|------|---------|
+| **Centrus Energy** | LEU | ★★★★★ | 🟢 里程碑确认 | **920+ kg HALEU交付（超Phase II 900kg目标）**；AGM明日10:00 EDT；Option 1b T-13（6/30）需重提成本方案（成本重谈，非二元失败） |
+| **ICL Group** | ICL | ★★★★ | 🟢 信息更新 | 6/19 Geneva签约（Vance+Kushner），但物理通航**30天内依"伊朗安排"**恢复；BIMCO仍标"risky"；800+船滞留；溴价支撑比市场预期更持久 |
+| **Almonty Industries** | ALM | ★★★（升级自★★） | 🟢 **论点质变** | **Sangdong 2026-03-17竣工仪式，商业生产确认**；Q1 EBITDA $6.1M首次转正（vs -$2.4M）；Q1 OCF +$9.7M首次转正；APT $3,040/MTU（年初$920，+230%）；Oppenheimer目标$25（6/3上调）；Russell T-12（6/29）~1300万股被动买入 |
+| **Chemring Group** | CHG.L | ★★★★ | 🟢 **财报验证通过** | H1 FY2026（6/2发布）：收入+7%至£237.3M；订单积压**£14亿（历史新高+8%）**；EBITDA -2%（非核心部门，不影响主论点）；Countermeasures & Energetics强劲；PS 2.74x/PE 23x **绿灯**；DPA总统令2026-15（6/11）外部验证SRM/点火器需求刚性 |
+| **Nittobo** | 3110.T | ★★★★ | 无变化 | ¥19,460；ATH-41%；5:1拆股T-12（6/29）；PE 35x vs FY2026净利+225% |
+| **Co-Tech** | 8358.TWO | ★★★★ | 无变化 | PE 14.86x/PS 2.12x绿灯；HVLP4唯一认证第二来源；NVIDIA直接接洽；等Q2财报 |
+| **IQE** | IQE.L | ★★★★ | 无变化 | Tower多年协议已确认（6/15）；中国放行短期积极，长期CSP多元化利好 |
+| **Yageo** | 2327.TW | ★★★★ | 无变化 | MLCC累计涨价+65%，铅期24周，Q2财报7月 |
+| **4047.T** | 4047.T | ⛔ 降级移除 | — | 确认为WF6停产方（7/1永久停产），不适合买入 |
+| **Iljin Electric** | 103590.KS | ★★★ | 无变化 | 变压器，PS 1.52x；等Q2财报 |
+| **Foosung** | 093370 | ★★★ | 无变化 | WF6受益；等CSSC认证进度及Q2成本结构 |
+| **ALM** | ALM | ★★★ | 见上 | — |
+
+### 本轮关键增量汇总
+
+**ALM Sangdong商业量产正式确认**：
+- 2025年12月首矿，2026年3月17日竣工仪式 = 里程碑确认
+- Q1 2026：收入$25.4M（+221%），EBITDA $6.1M（+$8.5M逆转），OCF $9.7M（+$14.1M逆转）
+- 前向PS（140,000 MTU @ $3,040/MTU = $425M收入）：$3.8B / $425M = **~8.9x 绿灯**
+- 追踪PS（Q1年化$101.6M）：~37x，+221%增速豁免红灯
+- 10年25x PE退出：全产能$400-500M收入 × 15-20%净利率 → ~$60-100M净利 × 25x = $1.5-2.5B < $9.86B目标 → 10年退出法不通过（待Phase 2+价格维持验证）
+- **升至★★★**（从★★），注记："等Q2数据升至★★★★候选"
+
+**Chemring H1 FY2026财报（6/2）估值绿灯**：
+- PS 2.74x ✅ / PE ~23x ✅
+- 10年退出：从净利£57M年化仅需0% CAGR即可通过 ✅ 具备安全边际
+- DPA总统令2026-15（SRM/点火器/制导）构成第二独立验证
+- 评级★★★★维持，财报验证通过
+
+**DPA总统令2026-15（6/11/16）新信号**：
+- 固体火箭发动机、点火器、制导系统列为国防必需品
+- 国内SRM厂商从6家减至2家（L3Harris Axyz + NorthropGrumman）
+- Anduril收$4370万DPA Title III资金；AXYV待IPO
+- 暂无小市值纯正上市标的
+
+*来源：Almonty Industries SEC 6-K FY2026 / Chemring Group interim-results-2026.pdf（LSE:CHG）/ ABC News / Axios / PBS NewsHour（霍尔木兹30天恢复时间线）/ Power Magazine（920 kg）/ TechTimes / AirMag（DPA 2026-15）*
+
