@@ -2,10 +2,7 @@
 set -euo pipefail
 
 ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
-DEST="${CLAUDE_COMMANDS_DIR:-$HOME/.claude/commands}"
 
-mkdir -p "$DEST"
-cp "$ROOT"/skills/*.md "$DEST"/
-chmod +x "$ROOT"/tools/*.py "$ROOT"/tools/*.sh 2>/dev/null || true
+python3 "$ROOT/scripts/bootstrap_ai_berkshire.py" --no-codex --no-prompts "$@"
 
-echo "Installed Claude Code commands to $DEST"
+echo "Installed Claude commands via bootstrap_ai_berkshire.py"

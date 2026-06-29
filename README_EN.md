@@ -255,20 +255,20 @@ For Claude Code users:
 ```bash
 # Clone the repository
 git clone https://github.com/xbtlin/ai-berkshire.git
-
-# Copy skills to Claude Code global commands directory
 cd ai-berkshire
 ./scripts/install-claude-commands.sh
 ```
+
+If you want a single entrypoint, use `./scripts/bootstrap_ai_berkshire.py` or the shorter `./scripts/abk` alias.
 
 For Codex users:
 
 ```bash
 # Clone the repository
 git clone https://github.com/xbtlin/ai-berkshire.git
+cd ai-berkshire
 
 # Generate and install Codex skills to ~/.codex/skills
-cd ai-berkshire
 ./scripts/install-codex-skills.sh
 
 # Optional: install Codex slash prompts to ~/.codex/prompts

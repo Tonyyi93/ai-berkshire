@@ -2,11 +2,7 @@
 set -euo pipefail
 
 ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
-DEST="${CODEX_HOME:-$HOME/.codex}/prompts"
 
-python3 "$ROOT/scripts/sync-codex-prompts.py"
-mkdir -p "$DEST"
-cp "$ROOT"/codex-prompts/*.md "$DEST"/
+python3 "$ROOT/scripts/bootstrap_ai_berkshire.py" --no-claude --no-codex "$@"
 
-echo "Installed Codex slash prompts to $DEST"
-echo "Restart Codex to pick up new slash prompts."
+echo "Installed Codex slash prompts via bootstrap_ai_berkshire.py"

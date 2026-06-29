@@ -277,6 +277,15 @@ cd ai-berkshire
 
 仓库同时维护三套入口：`skills/*.md` 是 Claude Code command 源文件；`codex-skills/*/SKILL.md` 是 Codex skill 包，由 `scripts/sync-codex-skills.py` 从 `skills/*.md` 生成；`codex-prompts/*.md` 是可选的 Codex slash prompt 兼容层。
 
+如果你想一次性完成全部安装，直接运行：
+
+```bash
+cd ai-berkshire
+./scripts/bootstrap_ai_berkshire.py
+```
+
+这会先同步 Codex artifacts，再安装 Claude commands、Codex skills 和 Codex prompts。
+
 ### 3. 使用
 
 在 Claude Code 中直接调用：
